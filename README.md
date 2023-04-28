@@ -22,9 +22,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/melissa-medeiros-931303249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melissa-medeiros-931303249" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100009077807509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100009077807509" height="30" width="40" /></a>
-</p>
 <a href = "mailto:honeythisa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+</p>
 
   ##
 
