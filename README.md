@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+  - Estudante de Análise e Desenvolvimento de Sistemas
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeythisa&layout=compact&langs_count=7&theme=dracula"/>
 
@@ -7,7 +7,6 @@
   ##
   
 ## 🛠 &nbsp;Tech Stack
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
