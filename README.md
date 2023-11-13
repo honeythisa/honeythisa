@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeythisa&layout=compact&langs_count=7&theme=dark"/>
 
 ## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
