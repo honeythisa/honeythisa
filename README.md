@@ -15,7 +15,7 @@ Sou uma pessoa muito curiosa e determinada, o que me garante sempre um novo apre
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="80" height="80" img align='left'/><h3>Conexões!<h3/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7869e9&color:FFF)](https://www.linkedin.com/in/honeythisa/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=linkedin&logoColor=7869e9&color:FFF )](https://wa.me/34996543322)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=7869e9&color:FFF )](https://wa.me/34996543322)
 ![Discord](https://img.shields.io/badge/honeythisa-black?style=for-the-badge&logo=discord&logoColor7869e9)
 
 # 
