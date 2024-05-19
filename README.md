@@ -41,6 +41,9 @@ Sou uma pessoa muito curiosa e determinada, o que me garante sempre um novo apre
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
-#
+# 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-honeythisa&color=blueviolet"/> 
+</div>
 
 ![Snake animation](https://github.com/honeythisa/honeythisa/blob/output/github-contribution-grid-snake.svg)
