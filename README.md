@@ -3,7 +3,7 @@
 Técnica em Informática formada em 2022 pelo Instituto federal do Triângulo Mineiro, e, atualmente faço Análise e Desenvolvimento de Sistemas, CST na mesma instituição.
 No presente momento, contribuo como voluntária na equipe técnica da Hemisphere no projeto Climacta da Embrapii, em colaboração com o IFTM, focado em sensoriamento remoto para coletar informações com alta precisão de retorno de dados climáticos.
 
-Estou profundamente envolvida no mundo tecnológico, participando ativamente de grupos de programação competitiva e mentorando aspirantes a desenvolvedores. Minhas conquistas, incluindo classificações de destaque em competições de programação, refletem meu compromisso com a excelência no desenvolvimento de algoritmos.
+Estou profundamente envolvida no mundo tecnológico, participando ativamente de grupos de programação competitiva e sendo entusiasta de aspirantes a desenvolvedores.
 
 Estou entusiasmada em continuar explorando novas oportunidades e expandindo meu conhecimento em tecnologia e desenvolvimento de sistemas.
 Sou uma pessoa muito curiosa e determinada, o que me garante sempre um novo aprendizado 👾
