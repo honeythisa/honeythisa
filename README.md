@@ -5,7 +5,7 @@ No presente momento, contribuo como voluntária na equipe técnica da Hemisphere
 
 Estou profundamente envolvida no mundo tecnológico, participando ativamente de grupos de programação competitiva e sendo entusiasta de aspirantes a desenvolvedores.
 
-Estou entusiasmada em continuar explorando novas oportunidades e expandindo meu conhecimento em tecnologia e desenvolvimento de sistemas.
+Estou disposta em continuar explorando novas oportunidades e expandindo meu conhecimento em tecnologia e desenvolvimento de sistemas.
 Sou uma pessoa muito curiosa e determinada, o que me garante sempre um novo aprendizado 👾
 
 [Buy me a coffee](https://buymeacoffee.com/honeythisa)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="25"> 
