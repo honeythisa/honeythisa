@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=990&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Hello,+I'm+Melissa!+%E2%9C%A7;I'm+19+years+old;I+love+programming;and+I'm+from+Brazil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=990&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Hello,+I'm+Melissa!+%E2%9C%A7)](https://git.io/typing-svg)
 
 Técnica em Informática formada em 2022 pelo Instituto Federal do Triângulo Mineiro, e, atualmente faço Análise e Desenvolvimento de Sistemas, CST na mesma instituição.
 
