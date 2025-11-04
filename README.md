@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=990&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Hello,+I'm+Melissa!+%E2%9C%A7)](https://git.io/typing-svg)
 
-Técnica em Informática formada em 2022 pelo Instituto Federal do Triângulo Mineiro, e, atualmente faço Análise e Desenvolvimento de Sistemas, CST na mesma instituição.
+Técnica em Informática, formada em 2022 pelo Instituto Federal do Triângulo Mineiro – Campus Ituiutaba. Atualmente, curso Análise e Desenvolvimento de Sistemas (CST) na mesma instituição.
+Possuo experiência em projetos de Iniciação Científica e Extensão, onde desenvolvi protótipos e sistemas básicos utilizando Arduino, além de consolidar uma base sólida em programação, redes e bancos de dados.
 
 [Buy me a coffee](https://buymeacoffee.com/honeythisa)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="25"> 
 
