@@ -1,13 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=990&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Hello,+I'm+Melissa!+%E2%9C%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=990&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Hello!+I'm+Mel+%E2%9C%A7)](https://git.io/typing-svg)
 
-Técnica em Informática, formada em 2022 pelo Instituto Federal do Triângulo Mineiro – Campus Ituiutaba. Atualmente, curso Análise e Desenvolvimento de Sistemas (CST) na mesma instituição.
-Possuo experiência em projetos de Iniciação Científica e Extensão, onde desenvolvi protótipos e sistemas básicos utilizando Arduino, além de consolidar uma base sólida em programação, redes e bancos de dados.
+IT, systems analysis com experiência em automação de processos e desenvolvimento de soluções integradas com IA. Também tenho experiências com Projeto de Iniciação Científica e Extensão, onde desenvolvi protótipos e sistemas básicos em arduino e adquiri uma base sólida em conceitos de lógica de programação, banco de dados, redes e langchain.
 
 [Buy me a coffee](https://buymeacoffee.com/honeythisa)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="25"> 
 
 #
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="80" height="80" img align='left'/><h3>Conexões!<h3/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="80" height="80" img align='left'/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7869e9&color:FFF)](https://www.linkedin.com/in/honeythisa/)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=7869e9&color:FFF )](https://t.me/honeythisa)
