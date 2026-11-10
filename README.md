@@ -5,8 +5,7 @@ IT, systems analysis com experiência em automação de processos e desenvolvime
 [Buy me a coffee](https://buymeacoffee.com/honeythisa)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="25"> 
 
 #
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="80" height="80" img align='left'/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="80" height="80" img align='left'/><h3>Conexões!<h3/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7869e9&color:FFF)](https://www.linkedin.com/in/honeythisa/)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=7869e9&color:FFF )](https://t.me/honeythisa)
