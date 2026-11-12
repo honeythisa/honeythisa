@@ -16,8 +16,6 @@ IT, systems analysis com experiência em automação de processos e desenvolvime
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="80" height="80" img align='left'/>
-
 ### Tech Stack&nbsp;
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -26,15 +24,15 @@ IT, systems analysis com experiência em automação de processos e desenvolvime
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 #
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=honeythisa&hide_border=true&background=000&ring=7869e9&fire=7869e9&currStreakNum=FFF&sideLabels=7869e9&dates=526777&currStreakLabel=7869e9&sideNums=FFF"/> 
+<div align="center" style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="80" height="80"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=honeythisa&hide_border=true&background=000&ring=7869e9&fire=7869e9&currStreakNum=FFF&sideLabels=7869e9&dates=526777&currStreakLabel=7869e9&sideNums=FFF"/>
+  <img src="https://komarev.com/ghpvc/?username=honeythisa&color=blueviolet"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-honeythisa&color=blueviolet"/>
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeythisa&title_color=7869e9&text_color=e5f7ef&icon_color=7869e9&hide_border=true&bg_color=000&langs_count=6"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=honeythisa&show_icons=true&line_height=27&count_private=true&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=7869e9&text_color=FFF&border_radius=3&border_color=7869e9&icon_color=7869e9&theme=jolly" alt="GitHub stats" />
