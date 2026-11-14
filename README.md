@@ -11,12 +11,13 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" img align='left'> 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=honeythisa&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=7869e9&text_color=ffffff&icon_color=7869e9" height="170"/>
 -->
-
-<div align="center" style="display: flex; align-items: center;">
-
 <img src="https://github.com/user-attachments/assets/18d7ee70-5262-444b-904e-2f9f9df126f0" height="270" alt="honeylogo" align='right'>
   
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" align='right'>
+
+<div align="center" style="display: flex; align-items: center;">
+
+
   
   
 
