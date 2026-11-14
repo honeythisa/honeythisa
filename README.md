@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" height="77" align='left'/> 
 
-[Buy me a coffee](https://buymeacoffee.com/honeythisas "CONTACT ME !")
+[Buy me a coffee](https://buymeacoffee.com/honeythisa "CONTACT ME !")
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" height="25" align='center'>
 
 <i><b>I.T girl,</i></b> possuo experiência em <i><b>desenvolvimento de soluções integradas com IA e automação de processos ˎˊ˗</b></i><br>⤷ Atuei também com <i>Projeto de Iniciação Científica e Extensão</i>, onde desenvolvi <b>protótipos e <i>sistemas básicos</i> em Arduino</b>, adquirindo uma <b>base sólida</b> em <i>lógica de programação</i>, <i>banco de dados</i>, <i>redes</i> e RAG (LangChain).
