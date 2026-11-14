@@ -5,13 +5,13 @@
 [Buy me a coffee](https://buymeacoffee.com/honeythisas "CONTACT ME !")
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" height="25" align='center'>
 
-<i><b>I.T girl, systems analysis</i></b> com experiência em <i><b>desenvolvimento de soluções integradas com IA e automação de processos ˎˊ˗</b></i><br>⤷ Atuei também com <i>Projeto de Iniciação Científica e Extensão</i>, onde desenvolvi <b>protótipos e <i>sistemas básicos</i> em Arduino</b>, adquirindo uma <b>base sólida</b> em <i>lógica de programação</i>, <i>banco de dados</i>, <i>redes</i> e RAG (LangChain).
+<i><b>I.T girl, tenho</i></b> experiência em <i><b>desenvolvimento de soluções integradas com IA e automação de processos ˎˊ˗</b></i><br>⤷ Atuei também com <i>Projeto de Iniciação Científica e Extensão</i>, onde desenvolvi <b>protótipos e <i>sistemas básicos</i> em Arduino</b>, adquirindo uma <b>base sólida</b> em <i>lógica de programação</i>, <i>banco de dados</i>, <i>redes</i> e RAG (LangChain).
 <br></br>
 <!--
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" img align='left'> 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=honeythisa&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=7869e9&text_color=ffffff&icon_color=7869e9" height="170"/>
 -->
-<img src="https://github.com/user-attachments/assets/18d7ee70-5262-444b-904e-2f9f9df126f0" height="200" alt="honeylogo" align='right'>
+<img src="https://github.com/user-attachments/assets/18d7ee70-5262-444b-904e-2f9f9df126f0" height="210" alt="honeylogo" align='right'>
   
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" align='right'>
 
