@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=500&size=15&color=7869e9&width=435&lines=𓍢ִ࿔%E2%9C%A7)](https://git.io/typing-svg)
 
 <div align="center" style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/18d7ee70-5262-444b-904e-2f9f9df126f0" height="212" alt="honeylogo" align='left'><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&display=swap&size=20&center=true&color=fff&&width=600&lines=Tech+Stack;Dev+Back;C%23+%7C+ASP.NET+Core+%7C+SQL;Cybersecurity;React+%7C+Node.js;loading..." />
+  <img src="https://github.com/user-attachments/assets/18d7ee70-5262-444b-904e-2f9f9df126f0" height="212" alt="honeylogo" align='right'><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&display=swap&size=20&center=true&color=fff&&width=600&lines=Tech+Stack;Dev+Back;C%23+%7C+ASP.NET+Core+%7C+SQL;Cybersecurity;React+%7C+Node.js;loading..." />
   
   [![Outlook](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=7869e9)](mailto:honeythisa@outlook.com)
   [![Portfolio](https://img.shields.io/badge/PORTFOLIO-100D10?style=for-the-badge&logo=githubpages&logoColor=7869e9)]()<!-- link -->
