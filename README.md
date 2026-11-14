@@ -11,17 +11,11 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" img align='left'> 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=honeythisa&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=7869e9&text_color=ffffff&icon_color=7869e9" height="170"/>
 -->
-<img src="https://github.com/user-attachments/assets/18d7ee70-5262-444b-904e-2f9f9df126f0" height="211" alt="honeylogo" align='right'>
-  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" align='right'>
+<img src="https://github.com/user-attachments/assets/18d7ee70-5262-444b-904e-2f9f9df126f0" height="211" alt="honeylogo" align='right'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" align='right'>
 
 <div align="center" style="display: flex; align-items: center;">
 
-
-  
-  
-
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&display=swap&size=20&center=true&pause=1000&color=fff&&width=600&lines=Tech+Stack;Dev+Back;C%23+%7C+ASP.NET+Core+%7C+SQL;Cybersecurity;React+%7C+Node.js;loading..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&display=swap&size=20&left=true&pause=1000&color=fff&&width=600&lines=Tech+Stack;Dev+Back;C%23+%7C+ASP.NET+Core+%7C+SQL;Cybersecurity;React+%7C+Node.js;loading..." />
   
   [![Outlook](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=7869e9)](mailto:honeythisa@outlook.com)
   [![Portfolio](https://img.shields.io/badge/PORTFOLIO-100D10?style=for-the-badge&logo=githubpages&logoColor=7869e9)]()<!-- link -->
@@ -32,6 +26,7 @@
   ![Snake animation](https://github.com/honeythisa/honeythisa/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=10&color=7869e9&random=false&width=435&lines=࿔%E2%9C%A7)](https://git.io/typing-svg)
   <!-- <img width="170" height="170" alt="honeylogo" src="https://github.com/user-attachments/assets/6714da9f-9393-4e0c-a9e5-567157add44d" align='left'>
   
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=honeythisa&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=7869e9&text_color=ffffff&icon_color=7869e9" height="170"/> -->
