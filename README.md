@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&height=500&size=25&color=7869e9&random=true&lines=%E2%9C%A7𓍢ִ໋+Hello,+Im+Mel!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&width=500&size=25&color=7869e9&random=true&lines=%E2%9C%A7𓍢ִ໋+Hello,+Im+Mel!)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" height="77" align='left'/> 
 
@@ -14,7 +14,7 @@
 <div align="center" style="display: flex; align-items: center;">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&size=25&color=7869e9&random=true&width=435&lines=࿔%E2%9C%A7𓍢ִ໋)](https://git.io/typing-svg)
-  <img src="https://github.com/user-attachments/assets/18d7ee70-5262-444b-904e-2f9f9df126f0" height="347" alt="honeylogo" align='right'>
+  <img src="https://github.com/user-attachments/assets/18d7ee70-5262-444b-904e-2f9f9df126f0" height="300" alt="honeylogo" align='right'>
 
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&display=swap&size=20&center=true&pause=1000&color=fff&&width=600&lines=Tech+Stack;Dev+Back;C%23+%7C+ASP.NET+Core+%7C+SQL;Cybersecurity;React+%7C+Node.js;loading..." />
   
@@ -24,7 +24,7 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)]()<!-- link -->
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7869e9&color:FFF)](https://www.linkedin.com/in/honeythisa/)
   ![Discord](https://img.shields.io/badge/honeythisa-black?style=for-the-badge&logo=discord&logoColor7869e9)
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=honeythisa&hide_border=true&background=000&ring=7869e9&fire=7869e9&currStreakNum=FFF&sideLabels=7869e9&dates=526777&currStreakLabel=7869e9&sideNums=FFF" height='165' align=''/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=honeythisa&hide_border=true&background=000&ring=7869e9&fire=7869e9&currStreakNum=FFF&sideLabels=7869e9&dates=526777&currStreakLabel=7869e9&sideNums=FFF" height='166' align=''/>
 
   ![Snake animation](https://github.com/honeythisa/honeythisa/blob/output/github-contribution-grid-snake.svg)
 </div>
