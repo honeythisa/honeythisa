@@ -23,6 +23,9 @@
   ![Snake animation](https://github.com/honeythisa/honeythisa/blob/output/github-contribution-grid-snake.svg)
 
 #
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&height=100&size=27&color=7869e9&random=true&lines=%E2%9C%A7𓍢ִ໋┆⋆˚₊⊹˖˖⭑˖+.☆+.݁˖+☆⊹┆˖࣪⊹★⋆.˚⊹˖⋆˚★)](https://git.io/typing-svg)
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20">
 </div>
 
