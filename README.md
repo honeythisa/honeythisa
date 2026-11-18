@@ -29,8 +29,7 @@
 ⠘⣆⢀⣤⡀⠀⠀⠀⡼⢥⣶⠿⠙⠀⠀⠀⡇⠀⢸⡇⠀⠀⠀⠀⢠⣦⣤⠀⠀⠀⢹⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠈⠻⣿⡟⠀⠀⣾⣽⡿⠏⠁⠀⠀⠀⡸⠁⠀⣾⠀⠀⠀⠀⠀⢯⠙⠃⠀⠀⠀⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣑⣿⡟⠃⠀⠀⠀⠀⡴⠁⠀⣰⠏⠃⠀⠀⠀⠀⠘⢦⣄⣀⣠⡴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⠀⢀⣾⠟⠐⢲⡷⠶ ⠁⠀  ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" img align='left'>
+⠀⠀⠀⢀⠀⢀⣾⠟⠐⢲⡷⠶ ⠁<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20">
 </div>
 
   <!-- <img width="170" height="170" alt="honeylogo" src="https://github.com/user-attachments/assets/6714da9f-9393-4e0c-a9e5-567157add44d" align='left'>
