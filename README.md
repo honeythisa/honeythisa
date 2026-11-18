@@ -7,8 +7,9 @@
   
   <i><b>I.T girl,</i></b> possuo experiência em <i><b>desenvolvimento de soluções integradas com IA e automação de processos ˎˊ˗</b></i><br>⤷ Atuei também com <i>Projeto de Iniciação Científica e Extensão</i>, onde desenvolvi <b>protótipos e <i>sistemas básicos</i> em Arduino</b>, adquirindo uma <b>base sólida</b> em <i>lógica de programação</i>, <i>banco de dados</i>, <i>redes</i> e RAG (LangChain).
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" img align='left'>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" align='left'>
 <br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" align='right'>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&display=swap&size=20&center=true&color=fff&&width=600&lines=Tech+Stack;Dev+Back;C%23+%7C+ASP.NET+Core+%7C+SQL;Cybersecurity;React+%7C+Node.js;loading..." />
@@ -21,15 +22,8 @@
 
   ![Snake animation](https://github.com/honeythisa/honeythisa/blob/output/github-contribution-grid-snake.svg)
 
-⠀⠀⠀⠀⠀⣠⣤⡦⣤⣬⣍⡉⠒⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⣠⠒⠉⠁⠀⠀⠀⠀⠈⠙⠻⣦⣜⠳⣄⢀⣀⣀⣠⣄⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⡜⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⢿⡖⠛⣯⠀⠀⣀⣀⣀⣀⡀⠈⠉⠓⠒⠠⠤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣯⠙⣦⠀
-⣼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠃⣤⣽⣶⠾⣿⠉⠉⠉⠉⠉⠉⠙⠓⢤⡀⠀⠀⠀⠉⠙⠒⠶⢤⣤⣀⡀⠀⠀⠀⠀⠨⠍⢀⡾⠃
-⢿⠀⠀⠀⠀⠀⠀⠀⠀⡠⠊⣠⣶⣿⠋⠉⣏⠀⢹⡀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠣⡀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠛⠓⠲⠖⠚⠉⠀⠀
-⠘⣆⢀⣤⡀⠀⠀⠀⡼⢥⣶⠿⠙⠀⠀⠀⡇⠀⢸⡇⠀⠀⠀⠀⢠⣦⣤⠀⠀⠀⢹⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠈⠻⣿⡟⠀⠀⣾⣽⡿⠏⠁⠀⠀⠀⡸⠁⠀⣾⠀⠀⠀⠀⠀⢯⠙⠃⠀⠀⠀⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣑⣿⡟⠃⠀⠀⠀⠀⡴⠁⠀⣰⠏⠃⠀⠀⠀⠀⠘⢦⣄⣀⣠⡴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⠀⢀⣾⠟⠐⢲⡷⠶ ⠁<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20">
+#
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20">
 </div>
 
   <!-- <img width="170" height="170" alt="honeylogo" src="https://github.com/user-attachments/assets/6714da9f-9393-4e0c-a9e5-567157add44d" align='left'>
