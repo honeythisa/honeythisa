@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&height=400&size=27&color=7869e9&random=true&lines=%E2%9C%A7𓍢ִ໋+Hello,+Im+Mel!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&height=370&size=27&color=7869e9&random=true&lines=%E2%9C%A7𓍢ִ໋+Hello,+Im+Mel!)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" height="77" align='left'/> 
   
@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" align='right'>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&display=swap&size=20&center=true&color=fff&&width=600&lines=Tech+Stack;Dev+Back;C%23+%7C+ASP.NET+Core+%7C+SQL;Cybersecurity;React+%7C+Node.js;loading..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&display=swap&size=20&center=true&color=fff&&width=600&lines=Dev+Back;C%23+%7C+ASP.NET+Core+%7C+SQL;Cybersecurity;React+%7C+Node.js;loading..." />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=honeythisa&hide_border=true&background=000&ring=7869e9&fire=7869e9&currStreakNum=FFF&sideLabels=7869e9&dates=526777&currStreakLabel=7869e9&sideNums=FFF" height='170' />
   
   [![Outlook](https://img.shields.io/badge/Email-000?style=for-the-badge&center=true&logo=gmail&logoColor=7869e9)](mailto:honeythisa@outlook.com)
@@ -20,15 +20,29 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&center=true&logoColor=7869e9&color:FFF)](https://www.linkedin.com/in/honeythisa/)
   ![Discord](https://img.shields.io/badge/honeythisa-black?style=for-the-badge&logo=discord&center=true&logoColor7869e9)
 
-  ![Snake animation](https://github.com/honeythisa/honeythisa/blob/output/github-contribution-grid-snake.svg)
+<div align='left'>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="80" height="80" align='left'/>
+  
+  ### Tech Stack&nbsp;
+
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+
+</div>
 
 #
 
+  ![Snake animation](https://github.com/honeythisa/honeythisa/blob/output/github-contribution-grid-snake.svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&height=100&size=27&color=7869e9&random=true&lines=%E2%9C%A7𓍢ִ໋┆⋆˚₊⊹˖˖⭑˖+.☆+.݁˖+☆⊹┆˖࣪⊹★⋆.˚⊹˖⋆˚★)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=honeythisa&color=blueviolet"/>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20">
 </div>
 
-  <!-- <img width="170" height="170" alt="honeylogo" src="https://github.com/user-attachments/assets/6714da9f-9393-4e0c-a9e5-567157add44d" align='left'>
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=honeythisa&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=7869e9&text_color=ffffff&icon_color=7869e9" height="170"/> -->
