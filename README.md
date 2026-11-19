@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&height=100&size=29&color=7869e9&random=true&lines=Hello,+Im+Mel!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&height=100&size=29&color=7869e9&random=true&lines=࿔+Hello!+I'm+Mel+࿔)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" height="77" align='left'/> 
   
