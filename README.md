@@ -7,7 +7,7 @@
   
   <i><b>I.T girl,</i></b> possuo experiência em <i><b>desenvolvimento de soluções integradas com IA e automação de processos ˎˊ˗</b></i><br>⤷ Atuei também com <i>Projeto de Iniciação Científica e Extensão</i>, onde desenvolvi <b>protótipos e <i>sistemas básicos</i> em Arduino</b>, adquirindo uma <b>base sólida</b> em <i>lógica de programação</i>, <i>banco de dados</i>, <i>redes</i> e RAG (LangChain).
 
-˖𓍢ִ࿔໋ <img src="https://komarev.com/ghpvc/?username=honeythisa&style=flat&label=Profile+Views&color=7869e9&center=true"/>˖𓍢ִ໋࿔ִ
+˖𓍢ִ࿔໋ <img src="https://komarev.com/ghpvc/?username=honeythisa&style=flat&label=Profile+Views&color=7869e9"/>˖𓍢ִ໋࿔ִ
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" align='left'>
 𓍢ִ໋<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" align='right'> -->
@@ -25,15 +25,18 @@
   <div align='left'>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" height="80" align='left'/>
     
-  ### Tech Stack 𓍢ִ໋&nbsp;
+  ### Tech Stack&nbsp;
     
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)
+  ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
+  ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+  [![Tailwind](https://badgewind.agmmnn.workers.dev/-?icon=simple-icons:tailwindcss)](https://tailwindcss.com/)
+  ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
+  ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)
 
   </div>
 </div>
